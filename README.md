@@ -14,7 +14,7 @@ or
 
 ---
 
-Other programming series:
+# Other programming series:
 
 [Python & AI Series](https://github.com/edgarmilvus/PythonProgrammingSeries) 
 
