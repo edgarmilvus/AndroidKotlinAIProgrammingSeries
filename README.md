@@ -11,3 +11,17 @@ Avaiable on
 or 
 [Leanpub.com](https://leanpub.com/OnDeviceGenAIWithAndroidKotlin)
 
+
+---
+
+Other programming series:
+
+[Python & AI Series](https://github.com/edgarmilvus/PythonProgrammingSeries) 
+[Android & Kotlin AI Series](https://github.com/edgarmilvus/AndroidKotlinAIProgrammingSeries)
+[Swift & AI Series](https://github.com/edgarmilvus/SwiftAIProgrammingSeries)
+[C# & AI Series](https://github.com/edgarmilvus/CSharpProgrammingSeries)  
+[Typescript & AI Series](https://github.com/edgarmilvus/JSTypescriptProgrammingSeries)
+[Rust & AI Series](https://github.com/edgarmilvus/RustAIProgrammingSeries)
+
+
+ 
