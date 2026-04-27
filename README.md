@@ -12,6 +12,8 @@ or
 [Leanpub.com](https://leanpub.com/OnDeviceGenAIWithAndroidKotlin)
 
 
+[All the volumes in the series](https://www.amazon.com/dp/B0GX33RB3W)
+
 ---
 
 # Other programming series:
