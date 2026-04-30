@@ -6,10 +6,8 @@ Volume 1:
 
 On-Device GenAI with Android Kotlin: Mastering Gemini Nano, AICore, and local LLM deployment using MediaPipe and Custom TFLite models.
 
-Avaiable on 
-[Amazon](https://www.amazon.com/dp/B0GX2Y1VVT)
-or 
-[Leanpub.com](https://leanpub.com/OnDeviceGenAIWithAndroidKotlin)
+Avaiable
+[Leanpub.com](https://leanpub.com/u/edgarmilvus)
 
 
 [All the volumes in the series](https://www.amazon.com/dp/B0GX33RB3W)
